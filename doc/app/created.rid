@@ -1,0 +1,17 @@
+Thu, 09 Aug 2018 19:44:15 +0200
+README.md	Thu, 09 Aug 2018 12:50:59 +0200
+app/channels/application_cable/channel.rb	Thu, 09 Aug 2018 12:51:00 +0200
+app/channels/application_cable/connection.rb	Thu, 09 Aug 2018 12:51:00 +0200
+app/controllers/application_controller.rb	Thu, 09 Aug 2018 12:51:00 +0200
+app/controllers/articles_controller.rb	Thu, 09 Aug 2018 19:21:49 +0200
+app/controllers/comments_controller.rb	Thu, 09 Aug 2018 19:22:37 +0200
+app/controllers/welcome_controller.rb	Thu, 09 Aug 2018 14:54:09 +0200
+app/helpers/application_helper.rb	Thu, 09 Aug 2018 12:51:00 +0200
+app/helpers/articles_helper.rb	Thu, 09 Aug 2018 15:16:44 +0200
+app/helpers/comments_helper.rb	Thu, 09 Aug 2018 18:52:39 +0200
+app/helpers/welcome_helper.rb	Thu, 09 Aug 2018 14:54:10 +0200
+app/jobs/application_job.rb	Thu, 09 Aug 2018 12:51:00 +0200
+app/mailers/application_mailer.rb	Thu, 09 Aug 2018 12:51:00 +0200
+app/models/application_record.rb	Thu, 09 Aug 2018 12:51:00 +0200
+app/models/article.rb	Thu, 09 Aug 2018 19:19:27 +0200
+app/models/comment.rb	Thu, 09 Aug 2018 18:32:07 +0200
